@@ -24,9 +24,9 @@
     // my github username
     owner: 'wahaha2099',
     // creator's username
-    creator: '',
+    creator: 'wahaha2099',
     // the repository name on github for writting issues
-    repo: 'wahaha2099.github.io',
+    repo: 'spring-blog',
     // custom page
     pages: [],
     // github's api
