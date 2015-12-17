@@ -22,11 +22,11 @@
     // my blog description
     desc: 'A blog engine written by GitHub Issues [Fork me on GitHub](https://github.com/zhaoda/spring)',
     // my github username
-    owner: 'zhaoda',
+    owner: 'wahaha2099',
     // creator's username
-    creator: '',
+    creator: 'wahaha2099',
     // the repository name on github for writting issues
-    repo: 'spring',
+    repo: 'spring-blog',
     // custom page
     pages: [],
     // github's api
